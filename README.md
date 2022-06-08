@@ -52,9 +52,6 @@ Search on youtube how to install the tools mentioned above.
 ## 📦 Features
 
 - [ ] TODO
-- [ ] TODO
-- [ ] TODO
-- [ ] TODO
 
 ### ⚙️ Running the tests
 
@@ -63,8 +60,6 @@ TODO
 ```
 
 ## 🛠️ Construído com
-
-Mencione as ferramentas que você usou para criar seu projeto
 
 * [Maven](https://maven.apache.org/) - Dependency Manager
 
